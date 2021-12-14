@@ -1,4 +1,4 @@
-% system identification code_random
+% system identification code_random torque output
 clc 
 clear all
 load random;
